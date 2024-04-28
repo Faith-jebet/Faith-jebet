@@ -1,5 +1,6 @@
- 👋 Hi, I’m @Faith-jebet I'm interested in Web development and Web design .Im currently learning front-end Development.Im looking
- to work on many projects. Reach me via linkedIn Faith jebet.
+ . Hi, I’m @Faith-jebet I'm interested in Web development and Web design .
+ .Im looking to collaborate on Front End Development projects. 
+ .Reach me via linkedIn Faith jebet.
  
 
 <!---
