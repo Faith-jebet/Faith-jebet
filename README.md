@@ -1,6 +1,6 @@
- .Hi, I’m @Faith-jebet I'm interested in Software development and Web designing .
- .Im looking to collaborate on Front End Development projects. 
- .Reach me via linkedIn Faith jebet.
+ .Hi, I’m @Faith-jebet I'm interested in Software development and Web designing  ✨ .
+ .Im looking to collaborate on Front End Development projects ✨. 
+ .Reach me via linkedIn Faith jebet ✨.
  
 
 <!---
